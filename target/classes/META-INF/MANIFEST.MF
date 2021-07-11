@@ -1,10 +1,11 @@
 Manifest-Version: 1.0
-Implementation-Title: demo-sample
-Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Title: message-server
+Implementation-Version: 1.0.0
 Built-By: Deepak
-Implementation-Vendor-Id: demo-sample
+Implementation-Vendor-Id: message-server
 Build-Jdk: 1.8.0_121
-Implementation-URL: http://projects.spring.io/spring-boot/demo-sample/
+Implementation-URL: http://projects.spring.io/spring-boot/message-serv
+ er/
 Created-By: Maven Integration for Eclipse
 Implementation-Vendor: Pivotal Software, Inc.
 
