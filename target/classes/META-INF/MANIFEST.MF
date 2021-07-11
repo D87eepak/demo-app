@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 Implementation-Title: demo-sample
-Implementation-Version: 1.4.1.RELEASE
+Implementation-Version: 1.0.0
 Built-By: Deepak
 Implementation-Vendor-Id: demo-sample
 Build-Jdk: 1.8.0_121

@@ -1,4 +1,4 @@
-FROM openjdk:8-jdk-alpine
-ARG JAR_FILE=target/*.jar
-COPY ${JAR_FILE} demo-sample.jar
-ENTRYPOINT ["java","-jar","/demo-sample.jar"]
+FROM openjdk:latest
+ADD target/demo-sample-1.0.0.jar app.jar
+ENTRYPOINT ["java","-jar","/app.jar"]
+EXPOSE 8080
